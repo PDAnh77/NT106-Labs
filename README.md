@@ -4,11 +4,11 @@
 
 ## Nội dung chính
 - `Lab1` - Làm quen với WinForms: Tạo giao diện, xử lý sự kiện và các control cơ bản.
-- `Lab2` - File và Stream I/O: đọc/ghi file văn bản, quản lý sinh viên với file nhị phân.
-- `Lab3` - Lập trình Sockets: xây dựng ứng dụng Client-Server đơn giản sử dụng TCP/UDP, giao diện Dashboard quản lý kết nối.
-- `Lab4` - Truyền thông với Web Server: lấy mã HTML, gửi dữ liệu POST, tải nội dung web, xây dựng trình duyệt mini.
-- `Lab5` - Gửi và nhận email: xây dựng ứng dụng đọc email (IMAP) và gửi email (SMTP) sử dụng thư viện MailKit.
-- `Lab6` - Ứng dụng Whiteboard: xây dựng app vẽ bảng trắng hỗ trợ nhiều client kết nối và tương tác thời gian thực.
+- `Lab2` - File và Stream I/O: Đọc/ghi file văn bản, quản lý sinh viên với file nhị phân.
+- `Lab3` - Lập trình Sockets: Xây dựng ứng dụng Client-Server đơn giản sử dụng TCP/UDP, giao diện Dashboard quản lý kết nối.
+- `Lab4` - Truyền thông với Web Server: Lấy mã HTML, gửi dữ liệu POST, tải nội dung web, xây dựng trình duyệt mini.
+- `Lab5` - Gửi và nhận email: Xây dựng ứng dụng đọc email (IMAP) và gửi email (SMTP) sử dụng thư viện MailKit.
+- `Lab6` - Ứng dụng Whiteboard: Xây dựng app vẽ bảng trắng hỗ trợ nhiều client kết nối và tương tác thời gian thực.
 
 ## Mô tả
 ### Lab1
